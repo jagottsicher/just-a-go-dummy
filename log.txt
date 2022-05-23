@@ -1,0 +1,1 @@
+2022/05/20 11:10:18 Ein Fehler trat auf: open keineDatei.txt: no such file or directory
